@@ -1,3 +1,9 @@
-# hello-world
-first play
-Just working through the github guide....
+
+<!DOCTYPE html>
+<head>
+  <title> Hello World</title>
+</head>
+<body>
+  <h1> Hello World</h1>
+  <p> why not recognise title tag?</p>
+</body>
